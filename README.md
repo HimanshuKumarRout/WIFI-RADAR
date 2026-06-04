@@ -77,8 +77,8 @@ WIFI-RADAR-TRACKER/
 ### 1️⃣ Clone the Repository
 
 ```bash id="hjv3m2"
-git clone https://github.com/your-username/wifi-radar-tracker.git
-cd wifi-radar-tracker
+git clone https://github.com/HimanshuKumarRout/WIFI-RADAR.git
+cd WIFI-RADAR
 ```
 
 ---
